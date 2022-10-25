@@ -8,5 +8,5 @@ I work remotely and like to travel a lot.
 </a>
 
 <a href="https://t.me/webdunyosi" target="_blank">
-    <img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" alt="youtobe" width="30px">
+    <img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" alt="youtobe" width="25px">
 </a>
