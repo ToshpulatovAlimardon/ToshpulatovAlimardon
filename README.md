@@ -15,5 +15,5 @@ I work remotely and like to travel a lot.
 ### Languages and tools I work width:
 
 <code>
-    <img src="https://www.clipartmax.com/png/middle/89-898951_html-icon-css-3-logo-white.png" alt="" width="30px">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png" alt="" width="30px">
 </code>
