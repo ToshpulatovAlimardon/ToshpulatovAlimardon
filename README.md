@@ -6,7 +6,7 @@ I work remotely and like to travel a lot.
 <a href="https://www.youtube.com/channel/UCaN88rI2GaxJi58_mL6JbwA" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/video-youtube-icon-27.png" alt="youtobe" width="30px">
 </a>
-&nbsb
+&nbsp;
 <a href="https://t.me/webdunyosi" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" alt="youtobe" width="30px">
 </a>
