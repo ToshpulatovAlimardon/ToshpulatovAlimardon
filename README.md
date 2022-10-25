@@ -17,7 +17,7 @@ I work remotely and like to travel a lot.
 <code>
     <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png" alt="" width="30px">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo-black-and-white.png" alt="" width="50px">
-    <img src="https://www.nicepng.com/png/detail/377-3771906_sass-sass-sass-sass-logo-white-png.png" alt="" width="30px">
+    <img src="https://www.nicepng.com/png/full/377-3771906_sass-sass-sass-sass-logo-white-png.png" alt="" width="30px">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png" alt="" width="30px">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png" alt="" width="30px">
 </code>
