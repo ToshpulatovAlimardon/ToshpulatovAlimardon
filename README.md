@@ -8,5 +8,5 @@ I work remotely and like to travel a lot.
 </a>
 
 <a href="https://t.me/webdunyosi" target="_blank">
-    <img src="https://mpng.subpng.com/20181128/arh/kisspng-computer-icons-telegram-download-portable-network-posterr-9jacashflow-com-5bff01d8e520a8.6179998915434388089385.jpg" alt="youtobe" width="30px">
+    <img src="https://mpng.subpng.com/20190525/oe/kisspng-telegram-vector-graphics-portable-network-graphics-team-rustrush-2-18-5ce9da31a38c36.8127179515588296176699.jpg" alt="youtobe" width="30px">
 </a>
