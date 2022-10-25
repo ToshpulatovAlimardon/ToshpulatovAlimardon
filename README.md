@@ -6,7 +6,7 @@ I work remotely and like to travel a lot.
 <a href="https://www.youtube.com/channel/UCaN88rI2GaxJi58_mL6JbwA" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/video-youtube-icon-27.png" alt="youtobe" width="30px">
 </a>
-
+&nbsb
 <a href="https://t.me/webdunyosi" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" alt="youtobe" width="30px">
 </a>
@@ -21,3 +21,5 @@ I work remotely and like to travel a lot.
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AzqIqN2UZdgynzvhsboTyjn_PPjdUTbI6Rflbyt2w2Jh2yB6DM-kUugFbOL4jPxhcwk&usqp=CAU" alt="" width="30px">
     <img src="https://www.pngkey.com/png/detail/522-5227440_javascript-icon-graphic-design.png" alt="" width="30px">
 </code>
+<br />
+
