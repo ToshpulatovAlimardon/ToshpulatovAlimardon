@@ -21,8 +21,8 @@ I work remotely and like to travel a lot.
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AzqIqN2UZdgynzvhsboTyjn_PPjdUTbI6Rflbyt2w2Jh2yB6DM-kUugFbOL4jPxhcwk&usqp=CAU" alt="" width="30px">
     <img src="https://www.pngkey.com/png/detail/522-5227440_javascript-icon-graphic-design.png" alt="" width="30px">
 </code>
-<br />
+<br /><br />
 
 - 📍 &nbsp; Current location: Navoi, Uzbekiston
 - 📝 &nbsp; Ask me about anything, I am happy to help
-- 📨 &nbsp; How to reach me: [@superxotira7320]
+- 📨 &nbsp; How to reach me: [@superxotira7320](@superxotira7320)
