@@ -1,3 +1,2 @@
-### Hi, I'm Alimardon Toshpulatov 👋 
-<iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
+### Hi, I'm Alimardon Toshpulatov 👋 <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47n3cqiwm73qym34z9tl33w9dibugcdgp9lafsn27l&rid=giphy.gif&ct=s" width="20px">
 
