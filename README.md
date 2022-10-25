@@ -23,3 +23,6 @@ I work remotely and like to travel a lot.
 </code>
 <br />
 
+- 📍 &nbsp; Current location: Navoi, Uzbekiston
+- 📝 &nbsp; Ask me about anything, I am happy to help
+- 📨 &nbsp; How to reach me: [@superxotira7320]
