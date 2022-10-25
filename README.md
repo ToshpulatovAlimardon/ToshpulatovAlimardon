@@ -3,7 +3,7 @@
 I make videos on Youtobe about software development. <br />
 I work remotely and like to travel a lot.
 
-<a href="https://www.youtube.com/channel/UCaN88rI2GaxJi58_mL6JbwA">
+<a href="https://www.youtube.com/channel/UCaN88rI2GaxJi58_mL6JbwA" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/video-youtube-icon-27.png" alt="youtobe" width="25px">
 </a>
 
