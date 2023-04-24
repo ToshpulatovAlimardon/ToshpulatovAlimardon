@@ -24,7 +24,7 @@ I work remotely and like to travel a lot.
 <code> <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo-black-and-white.png" alt="" width="50px"> </code>
 <code> <img src="https://www.nicepng.com/png/full/377-3771906_sass-sass-sass-sass-logo-white-png.png" alt="" width="30px"> </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="50px"> </code>
-<code> <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" alt="javascript" width="30px"> </code>
+<code> <img src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" width="30px"> </code>
 <br><br>
 
 - 📍 &nbsp; Current location: Navoi, Uzbekiston
