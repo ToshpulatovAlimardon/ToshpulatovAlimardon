@@ -21,7 +21,7 @@ I work remotely and like to travel a lot.
 ### Languages and tools I work width:
 
 <code> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40px"> </code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40px"> </code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css" width="35px"> </code>
 <code> <img src="https://d4.alternativeto.net/fQgCTebKFpVyA7YIb-a2NNrS9cRdTslJvfPgdRX4R34/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9zYXNzXzc4ODkwLnBuZw.png" alt="sass" width="40px"> </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="50px"> </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40px"> </code>
