@@ -30,4 +30,4 @@ I work remotely and like to travel a lot.
 
 - 📍 &nbsp; Current location: Navoi, Uzbekiston
 - 📝 &nbsp; Ask me about anything, I am happy to help
-- 📨 &nbsp; How to reach me: [@AlimardonToshpulatov](@AlimardonToshpulatov)
+- 📨 &nbsp; How to reach me: [@AlimardonToshpulatov](https://t.me/AlimardonToshpulatov)
