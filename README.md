@@ -12,6 +12,10 @@ I work remotely and like to travel a lot.
 <a href="https://t.me/webdunyosi" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" alt="youtobe" width="30px">
 </a>
+&nbsp;
+<a href="https://www.instagram.com/alimardon_toshpulatov/" target="_blank">
+    <img src="https://nationalzoo.com.au/wp-content/uploads/2018/11/instagram-png-instagram-png-logo-1455-1024x1024.png" alt="instagram" width="30px">
+</a>
 <br>
 
 ### Languages and tools I work width:
