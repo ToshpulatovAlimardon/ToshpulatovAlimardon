@@ -29,7 +29,7 @@ I work remotely and like to travel a lot.
 <code> <img src="https://d4.alternativeto.net/fQgCTebKFpVyA7YIb-a2NNrS9cRdTslJvfPgdRX4R34/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9zYXNzXzc4ODkwLnBuZw.png" alt="sass" width="40px"> </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="50px"> </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40px"> </code>
-<br>
+&nbsp;
 <code> <img src="https://www.shareicon.net/data/512x512/2016/08/01/640324_logo_512x512.png" alt="react" width="45px"> </code>
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="40px"> </code>
 <code> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"> </code>
