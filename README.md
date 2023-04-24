@@ -32,6 +32,7 @@ I work remotely and like to travel a lot.
 <br>
 <code> <img src="https://www.shareicon.net/data/512x512/2016/08/01/640324_logo_512x512.png" alt="react" width="45px"> </code>
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="40px"> </code>
+<code> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"> </code>
 <br><br>
 
 - 📍 &nbsp; Current location: Navoi, Uzbekiston
