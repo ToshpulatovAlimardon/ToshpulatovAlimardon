@@ -5,6 +5,10 @@
 I make videos on Youtobe about software development. <br>
 I work remotely and like to travel a lot.
 
+<a href="https://www.linkedin.com/in/alimardon-toshpo-latov-ab54b0260/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="30px">
+</a>
+&nbsp;
 <a href="https://www.youtube.com/channel/UCaN88rI2GaxJi58_mL6JbwA" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/video-youtube-icon-27.png" alt="youtobe" width="30px">
 </a>
