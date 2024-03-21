@@ -1,4 +1,8 @@
-### Hi, I'm Alimardon Toshpulatov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+### Hi, I'm Alimardon Toshpulatov 
+
+<div width=100% align="center">
+    <img  alt="Person coding gif" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif" height="250" width="300" /> 
+<div width="50%">
 
 <img src="https://camo.githubusercontent.com/97fca01f61f31536ad820ff9d0cc1ae8ab1e4963aa6d9b8186a181e00a836755/68747470733a2f2f7777772e77337765627363686f6f6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f646576656c6f7065722e676966" alt="youtobe" width="500px" align="right">
 
